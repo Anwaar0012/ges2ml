@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anwaar0012/ges2ml/static/css/main.14c4a7e7.css",
+    "main.js": "/Anwaar0012/ges2ml/static/js/main.f51663b2.js",
+    "static/js/787.9b13c4aa.chunk.js": "/Anwaar0012/ges2ml/static/js/787.9b13c4aa.chunk.js",
+    "index.html": "/Anwaar0012/ges2ml/index.html",
+    "main.14c4a7e7.css.map": "/Anwaar0012/ges2ml/static/css/main.14c4a7e7.css.map",
+    "main.f51663b2.js.map": "/Anwaar0012/ges2ml/static/js/main.f51663b2.js.map",
+    "787.9b13c4aa.chunk.js.map": "/Anwaar0012/ges2ml/static/js/787.9b13c4aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14c4a7e7.css",
+    "static/js/main.f51663b2.js"
+  ]
+}
